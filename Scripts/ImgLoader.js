@@ -1,7 +1,8 @@
 let Photo_List = [
     "Bathroom.jpeg",
     "WheelChair.jpeg",
-    "IMG_5132.jpeg"
+    "IMG_5132.jpeg",
+    "71140630377__71B66861-1BD6-4BBE-8B37-D4FA8276ABCD.jpeg"
 ]
 
 function ShowPhotots(){
